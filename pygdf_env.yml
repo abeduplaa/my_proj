@@ -1,8 +1,8 @@
 name: pygdf_env
 channels:
 - gpuopenanalytics/label/dev
-- numba
 - pytorch
+- numba
 - conda-forge
 - defaults
 dependencies:
